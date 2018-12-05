@@ -2,7 +2,8 @@
 # Last Edit: 4 Dec 2018
 # CS2302 Lab 6 Project
 # Instructors: Diego Aguirre and Saha, Manoj Pravakar
-# Goal: Implement Kruskal’s algorithm
+# Goal: Implement Kruskals algorithm
+
 
 # Class to represent a graph
 class Graph:
